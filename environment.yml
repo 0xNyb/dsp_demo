@@ -1,0 +1,12 @@
+name: application
+channels:
+  - conda-forge
+  - fastchan
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - opencv-python-headless
+  - pip
+  - pip:
+    - ipytest
