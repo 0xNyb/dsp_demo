@@ -1,7 +1,7 @@
 name: application
 channels:
   - conda-forge
-  - fastchan
+  - fastai
 dependencies:
   - matplotlib
   - numpy
